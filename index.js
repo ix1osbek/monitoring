@@ -138,5 +138,5 @@ bot.on("text", (ctx) => {
     currentAction = null;
 });
 
-bot.launch();
+bot.launch()
 console.log(">>> Boshqaruv bot ulandi!")
