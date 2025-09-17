@@ -135,7 +135,7 @@ bot.on("text", (ctx) => {
         }
     }
 
-    currentAction = null;
+    currentAction = null
 });
 
 bot.launch()
